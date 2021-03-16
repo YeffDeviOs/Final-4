@@ -160,7 +160,9 @@ h4 {
   .display-3{
     font-weight: 800 !important;
     font-size: 3rem;
-
+  }
+  .jumbotron {
+  padding: 5rem 4rem 2rem;
   }
 }
 
